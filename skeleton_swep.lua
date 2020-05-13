@@ -15,6 +15,7 @@ SWEP.Secondary.Automatic = false
 SWEP.Secondary.Ammo = ""
 SWEP.UseHands = true
 SWEP.WorldModel = ""
+SWEP.ViewModel = ""
 if CLIENT then
     SWEP.Slot = 1
     SWEP.SlotPos = 2
